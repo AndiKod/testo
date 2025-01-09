@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 hey() {
-  echo "Hello, helo!"
+  echo "Hello!"
 }
